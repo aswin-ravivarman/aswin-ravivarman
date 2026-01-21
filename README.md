@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Aswin 👋
 
-<!--
-**aswin-ravivarman/aswin-ravivarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electronics and Communication Engineering (ECE) student with a strong interest in building practical and reliable systems. I enjoy working at the intersection of software and hardware, focusing on clarity, correctness, and continuous improvement.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+- Learning Full-Stack Development  
+- Strengthening software fundamentals  
+- Exploring system-level thinking through embedded and software projects
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java  
+- JavaScript  
+
+### Web Fundamentals
+- HTML  
+- CSS  
+- JavaScript (ES6+)
+
+### Databases
+- MySQL (fundamentals)
+
+### Tools
+- Git  
+- GitHub  
+- SonarQube (code quality awareness)
+
+### Embedded Systems & Hardware
+- Arduino  
+- Sensors & modules  
+- Basic embedded system design
+
+---
+
+## 📚 What I’m Learning
+- Full-Stack Development concepts  
+- Writing clean, maintainable code  
+- Understanding how systems work end-to-end
+
+---
+
+## 📫 Reach Me
+- GitHub: https://github.com/aswin-ravivarman
